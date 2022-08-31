@@ -4,7 +4,10 @@ body{
 
 header{ 
     background-color: rgb(21, 235, 24);
+    display: flex;
 }
+
+
 
 ul {
     float:left;
@@ -16,4 +19,9 @@ ul {
 
 .logo {
     height: 50px;
+}
+
+.title{
+    text-align: center;
+    font-size: 80px;
 }
