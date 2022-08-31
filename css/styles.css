@@ -20,6 +20,7 @@ ul {
     margin: 0;
     padding: 0;
     display: inline;
+    font-family: sans-serif;
 }
 
 .logo {
@@ -37,4 +38,8 @@ ul {
 }
 .logo, .title, .advertising_video{
     display: inline;
+}
+.mainContent{
+    height: 90vh;
+    border: 4px solid rgb(0, 0, 0)
 }
