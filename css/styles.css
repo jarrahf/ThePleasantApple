@@ -31,10 +31,9 @@ ul {
 }
 
 .advertising_video{
-    height: 175px;
+    height: 100px;
     align-items: right;
-    float: right;
-}
+    
 .logo, .title, .advertising_video{
     display: inline;
 }
