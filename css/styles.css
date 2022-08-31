@@ -34,3 +34,6 @@ ul {
     height: 175px;
     align-items: right;
 }
+.logo, .title, .advertising_video{
+    display: inline;
+}
