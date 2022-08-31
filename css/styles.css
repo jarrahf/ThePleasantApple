@@ -13,3 +13,7 @@ ul {
     padding: 0;
     display: inline;
 }
+
+.logo {
+    height: 50px;
+}
