@@ -51,11 +51,18 @@ ul {
 }
 .pc{
     width: 7%;
-    padding-right: .7rem;
+    padding-right: .1rem;
+    -webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
 }
 .instagram{
     width: 7%;
+    padding-left: .1rem;
 }
 .email{
     width: 10%;
+}
+.MTB{
+    width: 10%;
+    vertical-align: -45%;
 }
